@@ -11,7 +11,7 @@ I'm Paulo, a software engineer with 20 years of experience building enterprise, 
 **Stack:** C#/.NET · Python/Django · Node.js · React · Oracle PL/SQL · PostgreSQL · AWS · Docker
 
 ### Selected work (client code is private)
-- **Payments integrations:** 4 country integrations (Mexico, Guatemala, Chile, El Salvador) for the Paycash platform, using C# on AWS Lambda
+- **Payments integrations:** 4 country integrations for the Paycash platform, using C# on AWS Lambda
 - **Payroll and time-tracking systems for US clients:** Django, PostgreSQL, Docker, NGINX
 - **Accounting system for a small firm:** Django
 - **SIRECI civil registry:** led 8 developers, deployed to 400+ branches
